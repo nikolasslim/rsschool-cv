@@ -43,6 +43,6 @@ function findUniq(arr) {
 
 ## Languages:
 
-- Russian - Native
+- Russian - Native 
 - Belarusian - Native
 - English - A2+
