@@ -38,7 +38,7 @@ function findUniq(arr) {
 
 ## Education:
 
-- **University**: Euphrosyne Polotskaya State University of Polotsk,Civil Engineering major
+- **University**:  Euphrosyne Polotskaya State University of Polotsk,Civil Engineering major
 - **Courses**: RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
 
 ## Languages:
