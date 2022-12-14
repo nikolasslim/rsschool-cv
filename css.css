@@ -1,18 +1,41 @@
-html,
 body {
-  font-family: Arial, serif;
-  font-size: 16px;
+  font-family: sans-serif;
+  font-weight: 400;
+  text-align: center;
+  padding: 0 30%;
+  margin: 0 auto;
+  background: #ffffff;
+}
+html {
+  scroll-behavior: smooth;
+}
+li {
+  list-style-type: none;
+  text-align: left;
+  font-family: "Kaisei Tokumin", serif;
+  font-weight: 400;
+}
+.avatar {
+  width: 250px;
+  height: 250px;
+  border-radius: 50%;
+}
+ul.navpanel li {
+  display: inline;
+  margin-right: 5px;
+}
+ul.navpanel {
   margin: 0;
-  padding: 0;
+  padding: 4px;
 }
-table {
-  border-collapse: collapse;
+.skills {
+  text-align: center;
 }
-table.border td,
-table.border th {
-  padding: 5px;
-  border: 1px solid #c0c0c0;
+
+.code {
+  text-align: left;
 }
-table.border th {
-  background: #e0e0e0;
+
+.gitfooter {
+  align-items: center;
 }
