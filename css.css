@@ -39,3 +39,9 @@ ul.navpanel {
 .gitfooter {
   align-items: center;
 }
+.git_img img {
+  width: 16px;
+}
+.rs_img img {
+  width: 60px;
+}
