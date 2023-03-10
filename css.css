@@ -1,0 +1,47 @@
+body {
+  font-family: sans-serif;
+  font-weight: 400;
+  text-align: center;
+  padding: 0 30%;
+  margin: 0 auto;
+  background: #ffffff;
+}
+html {
+  scroll-behavior: smooth;
+}
+li {
+  list-style-type: none;
+  text-align: left;
+  font-family: "Kaisei Tokumin", serif;
+  font-weight: 400;
+}
+.avatar {
+  width: 250px;
+  height: 250px;
+  border-radius: 50%;
+}
+ul.navpanel li {
+  display: inline;
+  margin-right: 5px;
+}
+ul.navpanel {
+  margin: 0;
+  padding: 4px;
+}
+.skills {
+  text-align: center;
+}
+
+.code {
+  text-align: left;
+}
+
+.gitfooter {
+  align-items: center;
+}
+.git_img img {
+  width: 16px;
+}
+.rs_img img {
+  width: 60px;
+}
