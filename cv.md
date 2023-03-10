@@ -47,4 +47,4 @@ function findUniq(arr) {
 
 - Russian - Native
 - Belarusian - Native
-- English - A2
+- English - A2(epam examinator)
